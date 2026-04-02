@@ -58,22 +58,18 @@ title('linear convolution');
 ~~~
 
 ## OUTPUT:
-\
+
 INPUT SEQUENCE
 
 <img width="698" height="615" alt="image" src="https://github.com/user-attachments/assets/2a6d0ab6-fc40-40ea-b91e-8b0f55f72603" />
-
 
 IMPLUSE RESPONSE
 
 <img width="694" height="622" alt="image" src="https://github.com/user-attachments/assets/e6610180-099c-47c6-8717-37263d165235" />
 
-
 LINEAR CONVOLUTION
 
 <img width="695" height="616" alt="image" src="https://github.com/user-attachments/assets/edfed060-6e96-4dae-ba2c-c75cdbe35463" />
-
-
 
 ## RESULT:
 ![WhatsApp Image 2026-04-02 at 12 22 35](https://github.com/user-attachments/assets/96f38286-f8ba-46b9-b1b8-fc4953346690)
