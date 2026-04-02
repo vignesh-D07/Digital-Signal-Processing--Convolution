@@ -63,9 +63,11 @@ INPUT SEQUENCE
 
 <img width="698" height="615" alt="image" src="https://github.com/user-attachments/assets/2a6d0ab6-fc40-40ea-b91e-8b0f55f72603" />
 
+
 IMPLUSE RESPONSE
 
 <img width="694" height="622" alt="image" src="https://github.com/user-attachments/assets/e6610180-099c-47c6-8717-37263d165235" />
+
 
 LINEAR CONVOLUTION
 
