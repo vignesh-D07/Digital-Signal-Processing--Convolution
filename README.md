@@ -21,7 +21,6 @@ Step 7: Terminate the program.
 
 ## PROGRAM:
 ~~~
-
 clc; %clear screen
 clear all; %clear screen 
 close all; %close all figure windows 
@@ -54,7 +53,6 @@ stem(n1,z);
 xlabel('time');
 ylabel('amplitude');
 title('linear convolution');
-
 ~~~
 
 ## OUTPUT:
